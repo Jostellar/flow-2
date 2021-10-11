@@ -37,7 +37,7 @@ nav a{
     padding-left: 20px;
 }
 main{
-    height: 700px;
+    height: auto;
     text-align: center;
     padding-top: 20px;
     padding-left: 240px;
